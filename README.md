@@ -14,15 +14,15 @@
 - Improving the overall experience 🚀
 
 ### ⏳ Estimated Completion
-We appreciate your patience. Stay tuned for updates! 🔧
+I appreciate your patience. Stay tuned for updates! 🔧
 
 ---
 
 ### 🔔 Stay Connected
 In the meantime, you can connect with me here:
-- 💬 [Twitter](https://twitter.com/yourprofile)
-- 🌐 [Website](https://yourwebsite.com)
-- 📧 [Email](mailto:your@email.com)
+- 💬 [Twitter](https://twitter.com/ok_sarthak)
+- 🌐 [Website](https://csarthakcal.com)
+- 📧 [Email](mailto:engineer.sarthak.cse@gmail.com)
 
 Thanks for stopping by! 🎉
 
