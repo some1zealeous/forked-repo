@@ -14,21 +14,10 @@
 
 ### 🛠️ What's Happening?
 ✅ Updating content
-✅ Fixing bugs 🐞
 ✅ Improving the overall experience 🚀
-✅ Rewriting code for better performance ⚡  
-✅ Enhancing security & reliability 🔐  
-✅ Designing an all-new interactive experience 🎨  
-✅ Fixing sneaky bugs 🐞  
-✅ Adding AI-powered features 🤖
 
 ### ⏳ Estimated Completion
 I appreciate your patience. Stay tuned for updates! 🔧
-
-### 🔥 **Live Progress Bar**
-<p align="center">
-  <img src="https://progress-bar.dev/75?title=Progress" alt="Progress Bar">
-</p>
 
 ---
 
@@ -41,6 +30,8 @@ In the meantime, you can connect with me here:
 Thanks for stopping by! 🎉
 
 ✨ **Get ready for an epic transformation! See you soon! 🚀**
+
+
 
 <!--
 **SharKthaK/SharKthaK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
