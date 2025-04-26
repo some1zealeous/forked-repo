@@ -7,7 +7,8 @@
 <h3 align="center">⚡ Maintenance work is currently in progress. Check back soon! ⚡</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7B42C&width=600&lines=🚀+Revamping+with+new+features!+;🛠+Fixing+bugs+and+optimizing!+;🎨+Enhancing+UI+and+animations!+;📈+Leveling+up+performance!+;💡+Expect+something+innovative!" alt="Typing Animation">
+  <img src="[https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7B42C&width=600&lines=🚀+Revamping+with+new+features!+;🛠+Fixing+bugs+and+optimizing!+;🎨+Enhancing+UI+and+animations!+;📈+Leveling+up+performance!+;💡+Expect+something+innovative!" alt="Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7B42C&width=600&lines=👨‍💻+Coding+static+and+dynamic+web+experiences!;🌐+Full+stack+developer:+building+from+frontend+to+backend!;🎨+Designing+stunning+graphics+and+user+interfaces!;✍️+Crafting+engaging+and+impactful+content!;🚀+Bridging+creativity+with+technology!;🛠️+Turning+ideas+into+interactive+solutions!;📚+Always+learning,+always+evolving!;💡+Innovating+at+the+intersection+of+code+and+design!;📈+Elevating+projects+with+both+visuals+and+logic!;🧩+Combining+coding,+design,+and+storytelling+seamlessly!
+)">
 </p>
 
 ---
