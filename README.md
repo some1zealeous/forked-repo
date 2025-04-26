@@ -7,7 +7,6 @@
 <h3 align="center">⚡ Maintenance work is currently in progress. Check back soon! ⚡</h3>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Typscript;JavaScript;Designing;Content+Creating+;Storytelling)](https://git.io/typing-svg)
-![funny gif](https://media.giphy.com/media/jAYUbVXgESSSti/giphy.gif)
 
 ---
 
