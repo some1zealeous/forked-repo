@@ -6,7 +6,7 @@
 
 <h3 align="center">⚡ Maintenance work is currently in progress. Check back soon! ⚡</h3>
 
-<a href="https://git.io/typing-svg">I'm proficient in <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Typscript;JavaScript;Designing;Content+Creating+;Storytelling" alt="Typing SVG" /></a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Typscript;JavaScript;Designing;Content+Creating+;Storytelling)](https://git.io/typing-svg)
 
 ---
 
